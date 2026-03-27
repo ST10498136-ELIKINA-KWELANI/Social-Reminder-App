@@ -7,7 +7,7 @@ Design Considerations:
 The application was developed for Android devices using Android Studio.
 The app was built using Kotlin
 Designed the User Interface using XML layouts in Android Studio
-<img width="1409" height="963" alt="Screenshot 2026-03-26 163555" src="https://github.com/user-attachments/assets/a627a152-e5d3-4255-9d2f-90453fa8b061" />
+<img width="1596" height="959" alt="Screenshot 2026-03-27 091615" src="https://github.com/user-attachments/assets/0733a42e-deef-4909-a92a-7a11e2d4c0b6" />
 
 
 GitHub Usage: 
